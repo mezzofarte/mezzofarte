@@ -1,4 +1,10 @@
-### Hi there 👋
+- Hey there! I'm Lindsey 😁
+- 💻 I’m a junior frontend dev...
+- 🎨 ...learning about UX/UI and how to design efficient and engaging applications
+- 🛠 Skilled in HTML/CSS, Javascript, and Figma
+- 🎧 Fun fact about me: I have a huge love for video game music and sound design!! 
+
+Interested in connecting? Visit my Linkedin: https://www.linkedin.com/in/lindsey-duong-0455a118b/
 
 <!--
 **mezzofarte/mezzofarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
