@@ -1,5 +1,5 @@
 - Hey there! I'm Lindsey 😁
-- 💻 I’m a junior frontend dev...
+- 💻 I’m a mid-level frontend dev...
 - 🎨 ...learning about UX/UI and how to design efficient and engaging applications
 - 🛠 Skilled in HTML/CSS, Javascript, and Figma
 - 🎧 Fun fact about me: I have a huge love for video game music and sound design!! 
